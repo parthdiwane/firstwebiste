@@ -1,2 +1,2 @@
 # firstwebiste
-my first website lol, kinda shitty. only made it using html lmao
+my first website lol. only made it using html lmao
